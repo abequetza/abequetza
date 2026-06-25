@@ -359,9 +359,9 @@ Built a strong foundation in enterprise processes, data reliability, reporting, 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abequetza/abequetza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abequetza/abequetza/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/abequetza/abequetza/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation">
 </picture>
 
 </div>
