@@ -320,25 +320,52 @@ Built a strong foundation in enterprise processes, data reliability, reporting, 
 
 ---
 
-## GitHub Analytics
+## Engineering Snapshot
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abequetza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6" alt="" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abequetza&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Security--First-Engineering-7C3AED?style=for-the-badge&labelColor=0B1020" alt="" />
+      <br/><br/>
+      <b>Secure Systems</b>
+      <br/>
+      <sub>Infrastructure, identity, hardening, detection and operational security.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Full--Stack-Development-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="" />
+      <br/><br/>
+      <b>Product Engineering</b>
+      <br/>
+      <sub>APIs, real-time flows, authentication, documentation and maintainable delivery.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Blue%20Team-SIEM%20%26%20Response-6366F1?style=for-the-badge&labelColor=0B1020" alt="" />
+      <br/><br/>
+      <b>Cyber Operations</b>
+      <br/>
+      <sub>Monitoring, alert triage, vulnerability awareness and incident response logic.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Technical Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abequetza&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="" />
+<img src="https://img.shields.io/badge/Python-Automation-7C3AED?style=flat-square&logo=python&logoColor=white&labelColor=0B1020" alt="" />
+<img src="https://img.shields.io/badge/Bash-Linux%20Operations-8B5CF6?style=flat-square&logo=gnubash&logoColor=white&labelColor=0B1020" alt="" />
+<img src="https://img.shields.io/badge/React-Frontend%20Engineering-6366F1?style=flat-square&logo=react&logoColor=white&labelColor=0B1020" alt="" />
+<img src="https://img.shields.io/badge/Docker-Containerisation-4F46E5?style=flat-square&logo=docker&logoColor=white&labelColor=0B1020" alt="" />
+<img src="https://img.shields.io/badge/Azure-Cloud%20Foundations-A855F7?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0B1020" alt="" />
+<img src="https://img.shields.io/badge/SIEM-Detection%20Workflows-7C3AED?style=flat-square&labelColor=0B1020" alt="" />
+<img src="https://img.shields.io/badge/Active%20Directory-Identity%20%26%20Access-8B5CF6?style=flat-square&labelColor=0B1020" alt="" />
+<img src="https://img.shields.io/badge/Network%20Security-Infrastructure-6366F1?style=flat-square&labelColor=0B1020" alt="" />
 
 </div>
 
@@ -348,7 +375,7 @@ Built a strong foundation in enterprise processes, data reliability, reporting, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abequetza&bg_color=0D1117&color=C9D1D9&line=A855F7&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abequetza&bg_color=0D1117&color=C9D1D9&line=A855F7&point=8B5CF6&area=true&hide_border=true&custom_title=Public%20Contribution%20Activity" alt="" />
 
 </div>
 
