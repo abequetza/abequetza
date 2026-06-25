@@ -324,15 +324,11 @@ Built a strong foundation in enterprise processes, data reliability, reporting, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6" alt="" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abequetza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6" alt="" />
 
 <br/><br/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abequetza&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="" />
 
 </div>
 
@@ -342,7 +338,7 @@ Built a strong foundation in enterprise processes, data reliability, reporting, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="" />
+<img src="https://github-profile-trophy.vercel.app/?username=abequetza&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="" />
 
 </div>
 
@@ -352,7 +348,7 @@ Built a strong foundation in enterprise processes, data reliability, reporting, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=C9D1D9&line=A855F7&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abequetza&bg_color=0D1117&color=C9D1D9&line=A855F7&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="" />
 
 </div>
 
